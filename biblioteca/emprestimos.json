@@ -1,12 +1,12 @@
 [
     {
         "id_emp": 1,
-        "id_user": {
+        "user": {
             "id_user": 2,
             "nome_user": "Maria",
             "endereco_user": "Rua das Flores, 123"
         },
-        "id_livro": {
+        "livro": {
             "id_livro": 4,
             "nome_livro": "O Pequeno Príncipe",
             "genero_livro": "Infantil",
@@ -20,12 +20,12 @@
     },
     {
         "id_emp": 2,
-        "id_user": {
+        "user": {
             "id_user": 1,
             "nome_user": "João",
             "endereco_user": "Rua Carvalho das flores, 123"
         },
-        "id_livro": {
+        "livro": {
             "id_livro": 2,
             "nome_livro": "O Hobbit",
             "genero_livro": "Fantasia",
@@ -40,12 +40,12 @@
     },
     {
         "id_emp": 3,
-        "id_user": {
+        "user": {
             "id_user": 1,
             "nome_user": "João",
             "endereco_user": "Rua das Palmeiras, 456"
         },
-        "id_livro": {
+        "livro": {
             "id_livro": 3,
             "nome_livro": "Diario de um banana",
             "genero_livro": "Comédia",
@@ -60,12 +60,12 @@
     },
     {
         "id_emp": 4,
-        "id_user": {
+        "user": {
             "id_user": 5,
             "nome_user": "Carlos",
             "endereco_user": "Rua das Flores, 432"
         },
-        "id_livro": {
+        "livro": {
             "id_livro": 2,
             "nome_livro": "O Hobbit",
             "genero_livro": "Fantasia",
