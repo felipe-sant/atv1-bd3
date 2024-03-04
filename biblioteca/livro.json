@@ -1,0 +1,32 @@
+[
+    {
+        "id_livro": 1,
+        "nome_livro": "O Senhor dos Anéis",
+        "genero_livro": "Fantasia",
+        "id_autor": 2
+    },
+    {
+        "id_livro": 2,
+        "nome_livro": "O Hobbit",
+        "genero_livro": "Fantasia",
+        "id_autor": 2
+    },
+    {
+        "id_livro": 3,
+        "nome_livro": "Diario de um banana",
+        "genero_livro": "Comédia",
+        "id_autor": 1
+    },
+    {
+        "id_livro": 4,
+        "nome_livro": "O Pequeno Príncipe",
+        "genero_livro": "Infantil",
+        "id_autor": 3
+    },
+    {
+        "id_livro": 5,
+        "nome_livro": "O Senhor dos Anéis",
+        "genero_livro": "Fantasia",
+        "id_autor": 2
+    }
+]

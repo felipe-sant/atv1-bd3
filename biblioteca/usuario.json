@@ -1,0 +1,32 @@
+[
+    {
+        "id_user": 1,
+        "nome_user": "João",
+        "rg_user": "123456789",
+        "endereco_user": "Rua Carvalho das flores, 123"
+    },
+    {
+        "id_user": 2,
+        "nome_user": "Maria",
+        "rg_user": "234567891",
+        "endereco_user": "Rua Peliculas Baratas, 456"
+    },
+    {
+        "id_user": 3,
+        "nome_user": "José",
+        "rg_user": "345678912",
+        "endereco_user": "Rua das Flores, 789"
+    },
+    {
+        "id_user": 4,
+        "nome_user": "Ana",
+        "rg_user": "456789123",
+        "endereco_user": "Rua das Flores, 123"
+    },
+    {
+        "id_user": 5,
+        "nome_user": "Carlos",
+        "rg_user": "567891234",
+        "endereco_user": "Rua das Flores, 432"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id_autor": 1,
+        "nome_autor": "Jeff Kinney"
+    },
+    {
+        "id_autor": 2,
+        "nome_autor": "J. R. R. Tolkien"
+    },
+    {
+        "id_autor": 3,
+        "nome_autor": "Antoine de Saint-Exupéry"
+    }
+]
