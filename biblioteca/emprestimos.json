@@ -1,32 +1,79 @@
 [
     {
         "id_emp": 1,
-        "id_user": 2,
-        "id_livro": 4,
+        "id_user": {
+            "id_user": 2,
+            "nome_user": "Maria",
+            "endereco_user": "Rua das Flores, 123"
+        },
+        "id_livro": {
+            "id_livro": 4,
+            "nome_livro": "O Pequeno Príncipe",
+            "genero_livro": "Infantil",
+            "autor": {
+                "nome_autor": "Antoine de Saint-Exupéry"
+            }
+        },
         "data_retirada": "2021-01-01",
         "data_devolucao": "2021-01-08",
         "multa_emp": 12.23
     },
     {
         "id_emp": 2,
-        "id_user": 1,
-        "id_livro": 2,
+        "id_user": {
+            "id_user": 1,
+            "nome_user": "João",
+            "endereco_user": "Rua Carvalho das flores, 123"
+        },
+        "id_livro": {
+            "id_livro": 2,
+            "nome_livro": "O Hobbit",
+            "genero_livro": "Fantasia",
+            "autor": {
+                "id_autor": 2,
+                "nome_autor": "J. R. R. Tolkien"
+            }
+        },
         "data_retirada": "2024-02-01",
         "data_devolucao": "2024-02-08",
         "multa_emp": 0.00
     },
     {
         "id_emp": 3,
-        "id_user": 1,
-        "id_livro": 3,
+        "id_user": {
+            "id_user": 1,
+            "nome_user": "João",
+            "endereco_user": "Rua das Palmeiras, 456"
+        },
+        "id_livro": {
+            "id_livro": 3,
+            "nome_livro": "Diario de um banana",
+            "genero_livro": "Comédia",
+            "autor": {
+                "id_autor": 1,
+                "nome_autor": "Jeff Kinney"
+            }
+        },
         "data_retirada": "2022-12-27",
         "data_devolucao": "2023-01-08",
         "multa_emp": 0.00
     },
     {
         "id_emp": 4,
-        "id_user": 5,
-        "id_livro": 1,
+        "id_user": {
+            "id_user": 5,
+            "nome_user": "Carlos",
+            "endereco_user": "Rua das Flores, 432"
+        },
+        "id_livro": {
+            "id_livro": 2,
+            "nome_livro": "O Hobbit",
+            "genero_livro": "Fantasia",
+            "autor": {
+                "id_autor": 2,
+                "nome_autor": "J. R. R. Tolkien"
+            }
+        },
         "data_retirada": "2023-12-10",
         "data_devolucao": "2023-12-18",
         "multa_emp": 17.88
