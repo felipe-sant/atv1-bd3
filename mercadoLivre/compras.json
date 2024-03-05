@@ -1,0 +1,32 @@
+{
+    "id_compra": "1",
+    "user": {
+        "id_user": 1,
+        "nome": "João",
+        "endereco": "Rua das Flores, 123"
+    },
+    "produtos": [
+        {
+            "id_produto": 1,
+            "nome": "WB-40",
+            "vendedor": {
+                "id_vendedor": 1,
+                "nome": "Pedro augusto"
+            },
+            "descricao": "Lorem ipsum dolor sit amet",
+            "preco": "40.00"
+        },
+        {
+            "id_produto": 97,
+            "nome": "Cadeira",
+            "vendedor": {
+                "id_vendedor": 23,
+                "nome": "João"
+            },
+            "descricao": "Lorem ipsum dolor sit amet",
+            "preco": "60.00"
+        }
+    ],
+    "data_compra": "2020-01-01",
+    "valor_total": "100.00"
+}

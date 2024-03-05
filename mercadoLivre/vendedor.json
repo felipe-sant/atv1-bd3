@@ -1,0 +1,26 @@
+[
+    {
+        "id_vendedor": 1,
+        "nome": "Pedro augusto",
+        "rg": "123456789",
+        "produtos": [
+            {
+                "id_produto": 1,
+                "nome": "WB-40",
+                "descricao": "Lorem ipsum dolor sit amet",
+                "preco": 100.00
+            },
+            {
+                "id_produto": 23,
+                "nome": "Poster dos vingadores",
+                "descricao": "Lorem ipsum dolor sit amet",
+                "preco": 231.0
+            },
+            {
+                "id_produto": 131,
+                "nome": "Creme de cabelo",
+                "descricao": "Lorem ipsum dolor sit amet"
+            }
+        ]
+    }
+]
